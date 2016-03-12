@@ -1,0 +1,22 @@
+
+{
+    "herbivores": [
+    {
+        "name": "horse",
+        "family": "mammal"
+    },
+    {
+        "name": "dung beetle",
+        "family": "insect"
+    },
+    {
+        "name": "guppy",
+        "family": "fish"
+    },    
+    {
+        "name": "ostrich",
+        "family": "bird"
+    },
+
+    ]
+}
