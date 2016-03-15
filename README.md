@@ -1,5 +1,15 @@
 #Carnivores
 
+##Description 
+NSS project focused on XHR calls to local JSON files. 
+
+##Lessons learned/reinforced 
+- callback functions 
+- XHR calls 
+- JSON structure / functionality
+- string templating
+- "this" functionality 
+
 ##Instructions
 -Create two JSON files. One should contain an array of carnivores, and the other should contain an array of herbivores.
 -Create an IIFE with the name of Predator.
