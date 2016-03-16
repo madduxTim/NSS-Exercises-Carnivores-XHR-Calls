@@ -51,3 +51,11 @@ var Predator = (function () {
     }
   }
 })();
+
+## How to run: 
+```
+http-server -p 5656
+```
+This will show at: 
+`http://localhost:5656
+`
